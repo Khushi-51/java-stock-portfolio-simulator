@@ -1,0 +1,54 @@
+Tech Heavy Portfolio,This portfolio focuses on technology companies that are expected to see significant growth due to innovation and high demand for tech products and services. It's ideal for investors looking for high potential returns but who are willing to tolerate higher volatility.
+AAPL,Apple Inc.,150,174.99,213.32
+MSFT,Microsoft Corporation,120,303.01,438.73
+GOOGL,Alphabet Inc.,200,132.90,172.45
+NVDA,NVIDIA Corporation,50,430.45,145.76
+---
+Balanced Growth Portfolio,The Balanced Growth Portfolio is designed for investors seeking a mix of growth and stability. It includes a combination of high-growth tech stocks and more stable consumer goods companies; offering moderate risk with the potential for steady long-term growth.
+AAPL,Apple Inc.,100,174.99,213.32
+TSLA,Tesla Inc.,60,248.73,177.40
+AMZN,Amazon.com Inc.,40,3361.85,178.25
+KO,The Coca-Cola Company,80,63.57,154.76
+PG,Procter & Gamble Co.,70,154.60,491.98
+---
+Dividend-Focused Portfolio,This portfolio prioritizes dividend-paying stocks; providing a steady income stream for investors. It's suited for those looking for less volatility and more consistent returns through dividends; rather than seeking rapid capital appreciation.
+PG,Procter & Gamble Co.,100,154.60,199.59
+JNJ,Johnson & Johnson,80,175.78,147.95
+PEP,PepsiCo Inc.,120,182.15,403.08
+---
+High-Risk, High-Reward Portfolio;A portfolio focused on high-growth; volatile stocks that have the potential for significant returns but also carry greater risk. This strategy is designed for risk-tolerant investors who can handle market fluctuations in exchange for higher potential upside.
+TSLA,Tesla Inc.,80,248.73,177.40
+NVDA,NVIDIA Corporation,40,430.45,465.56
+NFLX,Netflix Inc.,50,385.15,624.55
+SQ,Block Inc.,60,70.85,245.79
+---
+Conservative Portfolio,This portfolio focuses on stable; low-risk; blue-chip companies with a strong track record of growth and dividend payments. It's ideal for conservative investors looking for a reliable; steady return without significant risk or volatility.
+JNJ,Johnson & Johnson,100,175.78,147.95
+PG,Procter & Gamble Co.,80,154.60,474.22
+KO,The Coca-Cola Company,120,63.57,102.42
+MCD,McDonald's Corporation,90,253.65,349.24
+---
+Emerging Markets Portfolio,This portfolio is built around stocks from developing economies. These stocks offer potential for rapid growth but can also be more volatile and impacted by geopolitical factors.
+TSM,Taiwan Semiconductor Manufacturing Co.,100,138.70,481.82
+INFY,Infosys Ltd.,150,18.95,408.95
+VALE,VALE S.A.,200,12.73,79.93
+BABA,Alibaba Group Holding Ltd.,80,85.62,305.72
+---
+Green Energy Portfolio,This portfolio targets companies driving the clean and renewable energy revolution. It's ideal for investors seeking sustainable investments with long-term growth potential.
+ENPH,Enphase Energy Inc.,70,120.30,189.61
+PLUG,Plug Power Inc.,100,8.45,255.84
+FSLR,First Solar Inc.,60,165.00,46.21
+---
+AI & Innovation Portfolio,A forward-looking portfolio that includes companies leading in AI; machine learning; and disruptive tech. It’s high-growth with potential for exponential returns.
+NVDA,NVIDIA Corporation,60,430.45,75.69
+AMD,Advanced Micro Devices Inc.,100,123.45,497.69
+GOOGL,Alphabet Inc.,90,132.90,172.45
+META,Meta Platforms Inc.,50,309.45,485.15
+---
+Luxury & Lifestyle Portfolio,This portfolio focuses on premium brands and companies that cater to affluent consumers. These companies often have strong margins and customer loyalty.
+LVMUY,LVMH Moet Hennessy Louis Vuitton,50,173.42,203.75
+TSLA,Tesla Inc.,40,248.73,177.40
+RACE,Ferrari N.V.,30,325.50,148.21
+NKE,Nike Inc.,70,98.60,215.30
+---
+Healthcare & Biotech Portfolio,health related
